@@ -1,5 +1,5 @@
 <?php
-namespace MJanssen\Provider;
+namespace MRadossi\Provider;
 
 use InvalidArgumentException;
 use Silex\Application;
