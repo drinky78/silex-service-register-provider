@@ -1,9 +1,15 @@
 {
-    "name": "marcojanssen/silex-service-register-provider",
-    "authors": [{
-        "name": "Marco Janssen",
-        "email": "dev@marcojanssen.net"
-    }],
+    "name": "drinky78/silex-service-register-provider",
+    "authors": [
+        {
+            "name": "Marco Janssen",
+            "email": "dev@marcojanssen.net"
+        },
+        {
+            "name": "Marco Radossi",
+            "email": "marco.radossi@gmail.com"
+        }
+    ],
     "keywords": ["silex", "provider"],
     "description": "Silex provider for registering other providers",
     "license": "MIT",
@@ -15,7 +21,7 @@
     },
     "autoload": {
         "psr-0": {
-            "MJanssen\\": "src/"
+            "MRadossi\\": "src/"
         }
     }
 }
